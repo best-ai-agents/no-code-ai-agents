@@ -38,12 +38,12 @@
 
 ### Function & tasks
 
-- Sales: Lead generation, pipeline management, CRM updates
-- Marketing: Campaign management, content creation, SEO
-- HR: Hiring, onboarding, tracking performance
-- Banking: Loan processing, fraud detection, customer onboarding
-- Customer service: 24/7 support, ticket management, sentiment analysis, resolve issues
-- Financial Services: Risk analysis, fraud detection, expense tracking
+- **Sales:** Lead generation, pipeline management, CRM updates
+- **Marketing:** Campaign management, content creation, SEO
+- **HR:** Hiring, onboarding, tracking performance
+- **Banking:** Loan processing, fraud detection, customer onboarding
+- **Customer service:** 24/7 support, ticket management, sentiment analysis, resolve issues
+- **Financial Services:** Risk analysis, fraud detection, expense tracking
 
 ### Key features
 
@@ -70,9 +70,9 @@
 
 ### Function & tasks
 
-- Customer support: Answer common questions, triage queries, escalate complex issues
-- Sales & Marketing: Promote products and services, offer personalized recommendations, and engage with potential customers
-- Interactive Experiences: voice-based learning experiences, voice-driven stories, audiobooks
+- **Customer support:** Answer common questions, triage queries, escalate complex issues
+- **Sales & Marketing:** Promote products and services, offer personalized recommendations, and engage with potential customers
+- **Interactive Experiences:** voice-based learning experiences, voice-driven stories, audiobooks
 
 ### Key features
 
@@ -90,9 +90,9 @@
 
 ### Pricing
 
-- Free: Basic plan with limited features
-- Team: $129 per month per editor
-- Enterprise: Custom pricing available for larger teams and advanced features
+- **Free:** Basic plan with limited features
+- **Team:** $129 per month per editor
+- **Enterprise:** Custom pricing available for larger teams and advanced features
 
 ## Kore.ai
 
@@ -100,11 +100,11 @@
 
 ### Function & tasks
 
-- Retail: conversational AI agents, 24/7 support for customer inquiries, virtual assistant, enhance shopping experience
-- HR: Virtual support, discover talent, automate routine work, eliminate bias in recruitment
-- IT: employee self-service and augment Help Desk workflow
-- Healthcare: Appointment management, patient portals
-- Bank: Account management, transaction management, balance inquiry
+- **Retail:** conversational AI agents, 24/7 support for customer inquiries, virtual assistant, enhance shopping experience
+- **HR:** Virtual support, discover talent, automate routine work, eliminate bias in recruitment
+- **IT:** employee self-service and augment Help Desk workflow
+- **Healthcare:** Appointment management, patient portals
+- **Bank:** Account management, transaction management, balance inquiry
 
 ### Key features
 
@@ -123,4 +123,4 @@
 
 ### Pricing
 
-- Enterprise: Custom pricing available for advanced features
+- **Enterprise:** Custom pricing available for advanced features
