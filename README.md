@@ -30,4 +30,4 @@
 
 - **Free:** 100 credits/day
 - **Business plan:** $599 per month
-- **Custom** Get quotes for enterprise by contacting sales team
+- **Custom:** Get quotes for enterprise by contacting sales team
