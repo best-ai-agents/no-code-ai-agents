@@ -124,3 +124,7 @@
 ### Pricing
 
 - **Enterprise:** Custom pricing available for advanced features
+
+---
+
+✨ Looking to feature your own AI Agent? submit it here: [AI Agents Live](https://aiagentslive.com) ✨
