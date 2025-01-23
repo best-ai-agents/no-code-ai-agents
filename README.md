@@ -2,7 +2,7 @@
 
 ## Relevance AI
 
-> [Relevance AI website](https://relevanceai.com/)
+> [Relevance AI website](https://relevanceai.com/?utm_campaign=github_no_code&utm_source=aiagentslive.com)
 
 ### Function & tasks
 
@@ -34,7 +34,7 @@
 
 ## Lyzr
 
-> [Lyzr website](https://www.lyzr.ai/)
+> [Lyzr website](https://www.lyzr.ai/?utm_campaign=github_no_code&utm_source=aiagentslive.com)
 
 ### Function & tasks
 
@@ -66,7 +66,7 @@
 
 ## Voiceflow
 
-> [Voiceflow website](https://www.voiceflow.com/)
+> [Voiceflow website](https://www.voiceflow.com/?utm_campaign=github_no_code&utm_source=aiagentslive.com)
 
 ### Function & tasks
 
@@ -96,7 +96,7 @@
 
 ## Kore.ai
 
-> [Kore.ai website](https://www.kore.ai/)
+> [Kore.ai website](https://www.kore.ai/?utm_campaign=github_no_code&utm_source=aiagentslive.com)
 
 ### Function & tasks
 
@@ -127,4 +127,4 @@
 
 ---
 
-✨ Looking to feature your own AI Agent? submit it here: [AI Agents Live](https://aiagentslive.com) ✨
+✨ Looking to feature your own AI Agent? submit it here: [AI Agents Live](https://aiagentslive.com?utm_campaign=github_no_code) ✨
